@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chahat Chhabra
-- 👀 I’m interested in ...learning new languages and web development.
-- 🌱 I’m currently learning ...C language.
+- 👀 I’m interested in ...learning machine learning
 
 - 📫 How to reach me on linkedin..https://www.linkedin.com/in/chahat-chhabra-756342260
                         Instagram..https://www.instagram.com/chahat__2512/
